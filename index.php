@@ -5,6 +5,7 @@
 	<meta charset="UTF-8">
 	<title>Semana 1</title>
 	<link rel="stylesheet" href="css/Style.css">
+	
 </head>
 
 <body>
@@ -18,12 +19,9 @@
 		</div>
 		<div class="main">
 			<div class="php">
-				<?php
-				echo "Este es un ejemplo de un documento web que muestra este texto ";
-				echo "en el cuerpo de la p&aacute;gina web,";
-				echo "si puedes leer estas palabras en su navegador,";
-				echo "hizo el ejercicio bien";
-				?>
+				
+	
+	
 			</div>
 		</div>
 		<footer>
