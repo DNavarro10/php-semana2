@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Semana 1</title>
+	<title>Semana 2 POO</title>
 	<link rel="stylesheet" href="css/Style.css">
 	
 </head>
