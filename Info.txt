@@ -1,0 +1,6 @@
+Unidad - 2
+ 
+Programacion orientada a objetos  (POO)
+
+Descripción: En esta práctica el estudiante aprende el uso clases en otros archivos php y
+el uso de la visibilidad de los métodos.
