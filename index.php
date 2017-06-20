@@ -19,7 +19,9 @@
 		</div>
 		<div class="main">
 			<div class="php">
-				
+				<div class="warp">
+					<?php include 'php/trabajadores.php'; ?>	
+				</div>
 	
 	
 			</div>
