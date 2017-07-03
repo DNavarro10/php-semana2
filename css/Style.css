@@ -36,15 +36,6 @@ header{
 	font-size: 1.2em;
 	text-align: center;
 }
-.warp{
-	text-align: justify;
-	padding-left: 50px;
-	padding-right: 50px;
-	padding-top: 20px;
-	padding-bottom: 20px;;
-	border: 2px solid;
-	font-weight: 600;
-}
 footer{
 	display: block;
 	margin-top: 20px;
